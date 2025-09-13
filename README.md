@@ -264,11 +264,12 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Contact
 
-**Project Maintainer**: [@dachraoui-ui](https://github.com/dachraoui-ui)
+**Project Maintainers**: 
+- Rayen Ben Othman -(https://github.com/Raydineri)
+- Ahmed Dachroui -(https://github.com/dachraoui-ui)
 
-- 📧 Email: [your-email@example.com]
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 🐦 Twitter: [Your Twitter Handle]
+- 📧 Email: [rayen.benothman07@gmail.com]
+- 💼 LinkedIn: [https://www.linkedin.com/in/rayen-benothman]
 
 ---
 
@@ -281,7 +282,6 @@ If you found this project helpful, please consider:
 - 🐛 Reporting issues
 - 💡 Suggesting improvements
 
-**🔗 Repository**: [https://github.com/dachraoui-ui/face_recognition_with_gui.git](https://github.com/dachraoui-ui/face_recognition_with_gui.git)
 
 ---
 
