@@ -136,15 +136,7 @@ python main.py
 - `.bmp`
 - `.gif`
 
-### Example Usage
-```python
-# For developers wanting to integrate the recognition engine
-from main import FaceRecognitionApp
 
-app = FaceRecognitionApp()
-result = app.recognize_face("path/to/player/image.jpg")
-print(f"Player: {result['name']}, Age: {result['age']}")
-```
 
 ## 📁 Project Structure
 
